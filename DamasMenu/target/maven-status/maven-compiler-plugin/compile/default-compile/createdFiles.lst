@@ -1,0 +1,9 @@
+com\mycompany\damas\interfaz\Hipervinculo.class
+com\mycompany\damas\interfaz\PanelBarraDeHerramientas.class
+com\mycompany\damas\interfaz\Principal.class
+com\mycompany\damas\interfaz\NuevaPartida.class
+com\mycompany\damas\interfaz\PanelDeJuego.class
+com\mycompany\damas\interfaz\Seleccion_de_modo.class
+com\mycompany\damas\interfaz\AcercaDe.class
+com\mycompany\damas\interfaz\PanelImagen.class
+com\mycompany\damas\interfaz\mundo\Damas.class
